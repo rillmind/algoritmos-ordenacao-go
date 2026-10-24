@@ -1,4 +1,4 @@
-module github.com/rillmind/ordenacaoED
+module github.com/rillmind/algoritmos-ordenacao-go
 
 go 1.24.3
 
